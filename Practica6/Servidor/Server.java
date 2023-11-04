@@ -1,3 +1,8 @@
+/* Practica 6 - Código de servidor
+Alvarez Santiago Daniela
+Martínez Vivaldo Uriel Giovanni
+Pedroza Velarde Luis Rodrigo
+*/
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
