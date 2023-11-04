@@ -1,6 +1,6 @@
 /* Practica 6 - Código de cliente
 Alvarez Santiago Daniela
-Martíne Vivaldo Uriel Giovanni
+Martínez Vivaldo Uriel Giovanni
 Pedroza Velarde Luis Rodrigo
 */
 import java.io.*;
